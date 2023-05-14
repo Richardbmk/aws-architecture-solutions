@@ -15,3 +15,33 @@ For continuous integration and continuous deployment (CI/CD) of the microservice
 Finally, AWS CloudMap is utilized for service discovery, providing an easy way to discover and connect to services within the application.
 
 Overall, this AWS architecture provides a scalable, highly available, and secure environment for the microservice application.
+
+### 1. CI/CD Pipeline with AWS ECS Cluster
+
+<p align="center">
+  <img src="/aws-fargate-ecs-Solutions/jpg-format\CICD Pipeline ECS.jpg"/>
+</p>
+
+### 2. Microservice deployment on AWS ECS Fargate
+
+<p align="center">
+  <img src="/aws-fargate-ecs-Solutions/jpg-format\Microservice ECS 01.jpg"/>
+</p>
+
+### 3. Microservice deployment on AWS ECS Fargate With Service Discovery
+
+<p align="center">
+  <img src="/aws-fargate-ecs-Solutions/jpg-format\Microservice SD ECS 02.jpg"/>
+</p>
+
+### 4. Microservice deployment with AWS AppMesh on AWS ECS
+
+<p align="center">
+  <img src="/aws-fargate-ecs-Solutions/jpg-format\Microservice Mesh ECS 01.jpg"/>
+</p>
+
+### 5. Microservice deployment with Canary Deployments with AppMesh on AWS ECS
+
+<p align="center">
+  <img src="/aws-fargate-ecs-Solutions/jpg-format\Microservice Mesh Canary ECS 01.jpg"/>
+</p>

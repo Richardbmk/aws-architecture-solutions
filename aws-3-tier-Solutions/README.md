@@ -17,3 +17,81 @@ SNS is utilized for notifications and alerts, providing timely information to th
 Finally, S3 is utilized for storage of static files and artifacts, providing a cost-effective and scalable storage solution for the application.
 
 Overall, this AWS architecture provides a highly available, scalable, and secure environment for the three-tier application.
+
+### 1. AWS VPC Architecture Structure 01
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC Structure.jpg"/>
+</p>
+
+### 2. AWS VPC Architecture Structure 02
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-SG.jpg"/>
+</p>
+
+### 3. AWS VPC Architecture. EC2 Instaces and SG
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2.jpg"/>
+</p>
+
+### 4. AWS 3-Tier Architecture. EC2 and Classic Load Balancer
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 CLB.jpg"/>
+</p>
+
+### 5. AWS 3-Tier Architecture. EC2 and Application Load Balancer
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 ALB.jpg"/>
+</p>
+
+### 6. AWS 3-Tier Architecture. ALB with AutoScalingGroup
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 NLB ASG LT-LC.jpg"/>
+</p>
+
+### 7. AWS 3-Tier Architecture. Network Load Balancer and ASG
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 NLB ASG LT-LC.jpg"/>
+</p>
+
+### 8. AWS 3-Tier Architecture. Network Load Balancer with CloudWatch
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 NLB ASG LT-LC CW.jpg"/>
+</p>
+
+### 9. AWS 3-Tier Architecture. Context Path Based Routing
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 ALB CPBR.jpg"/>
+</p>
+
+### 10. AWS 3-Tier Architecture. Context Path Based Routing + RDS
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 ALB CPBR RDS.jpg"/>
+</p>
+
+### 11. AWS 3-Tier Architecture. Host Header Based Routing
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 ALB HHBR.jpg"/>
+</p>
+
+### 12. AWS 3-Tier Architecture. Query String and Host Header
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\AWS VPC-EC2 ALB QSHH.jpg"/>
+</p>
+
+### 13. AWS 3-Tier Architecture. CICD Pipelines
+
+<p align="center">
+  <img src="/aws-3-tier-Solutions/jpg-format\WS VPC-EC2 CICD Pipeline.jpg"/>
+</p>
